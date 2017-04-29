@@ -1,0 +1,54 @@
+[
+  {
+   "name": "Sebastian",
+   "online": false
+  },
+  {
+   "name": "Jason",
+   "online": false
+  },
+  {
+   "name": "William",
+   "online": true
+  },
+  {
+   "name": "Ben",
+   "online": true
+  },
+  {
+   "name": "Jack",
+   "online": true
+  },
+  {
+   "name": "Guil",
+   "online": false
+  },
+  {
+   "name": "Shire",
+   "online": true
+  },
+  {
+   "name": "Ana",
+   "online": true
+  },
+  {
+   "name": "Hana",
+   "online": true
+  },
+  {
+   "name": "Rodriguez",
+   "online": false
+  },
+  {
+   "name": "Velandia",
+   "online": true
+  },
+  {
+   "name": "Morris",
+   "online": true
+  },
+  {
+   "name": "Zac",
+   "online": false
+  }
+]
